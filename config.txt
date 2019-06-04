@@ -1,6 +1,6 @@
-token= NTg0Njg3OTgyNTY5NTg2Njg4.XPOjpw.KZkmXlWFCIfyn8V_NOp6oepUNgI
+token= NTg1MzY5MDgyNTYwMjQ5ODY5.XPYd3Q.FIFiTWNr0nIJrJlIcdD1as2xQiI
 owner= 556990760659058728  
 prefix= 2
-game= Type help
+game= Type 2help
 stayinchannel=true
 songinstatus=true
